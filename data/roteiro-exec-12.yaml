@@ -1,0 +1,48 @@
+roteiro:
+    atenas: |
+        Liste 3 pontos turísticos de Atenas, o número anual de visitantes e uma breve descrição de cada ponto.
+        O formato retornado deve ser um arquivo JSON válido, seguindo esse exemplo:
+        [
+          {
+            cidade: 'Atenas',
+            local: 'Acrópole de Atenas',
+            visitantes: 3000000,
+            descricao: 'A Acrópole de Atenas é uma antiga cidadela localizada sobre uma colina rochosa a 150 metros de altura.'
+          },
+          {
+            cidade: 'Atenas',
+            local: 'Ágora de Atenas',
+            visitantes: 2000000,
+            descricao: 'A Ágora de Atenas é um dos mais famosos locais arqueológicos da Grécia.'
+          },
+          {
+            cidade: 'Atenas',
+            local: 'Templo de Zeus Olímpico',
+            visitantes: 1500000,
+            descricao: 'O Templo de Zeus Olímpico é um antigo templo dedicado a Zeus, localizado no centro de Atenas.'
+          }
+        ]
+
+    roma: |
+        Liste 3 pontos turísticos de Roma, o número anual de visitantes e uma breve descrição de cada ponto.
+        O formato retornado deve ser um arquivo JSON válido, seguindo esse exemplo:
+        [
+          {
+            cidade: 'Roma',
+            local: 'Coliseu',
+            visitantes: 7000000,
+            descricao: 'O Coliseu é um anfiteatro de forma elíptica no centro da cidade de Roma, Itália.'
+          },
+          {
+            cidade: 'Roma',
+            local: 'Fórum Romano',
+            visitantes: 5000000,
+            descricao: 'O Fórum Romano é uma praça retangular no centro de Roma, Itália.'
+          },
+          {
+            cidade: 'Roma',
+            local: 'Panteão de Roma',
+            visitantes: 4000000,
+            descricao: 'O Panteão de Roma é um templo romano dedicado a todos os deuses do panteão romano.'
+          }
+        ]

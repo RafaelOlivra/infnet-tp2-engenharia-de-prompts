@@ -2,3 +2,4 @@ jupyterlab
 jupyter
 google-generativeai
 pandas
+matplotlib
